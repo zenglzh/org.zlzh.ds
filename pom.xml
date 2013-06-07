@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.zlzh.ds</groupId>
-  <artifactId>hello</artifactId>
+  <artifactId>org.zlzh.ds</artifactId>
   <version>1.0</version>
   <packaging>jar</packaging>
 
-  <name>hello</name>
+  <name>org.zlzh.ds</name>
   <url>http://maven.apache.org</url>
 
   <properties>
@@ -18,7 +18,7 @@
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
-      <version>3.8.1</version>
+      <version>4.8.1</version>
       <scope>test</scope>
     </dependency>
   </dependencies>
