@@ -1,8 +1,6 @@
 /*
  * @(#)IObjectVisit.java  2013-6-7	
  *
- * Copyright  2010 Join-Cheer Corporation Copyright (c) All rights reserved.
- * BEIJING JOIN-CHEER SOFTWARE CO.,LTD
  */
 
 package org.zlzh.util;
