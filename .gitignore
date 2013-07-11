@@ -3,13 +3,5 @@ classes
 test-classes
 *.class
 *~
+*.DS_Store
 
-src/main/.DS_Store
-
-src/main/java/org/zlzh/.DS_Store
-
-src/main/java/org/zlzh/ds/.DS_Store
-
-src/main/java/.DS_Store
-
-.DS_Store
