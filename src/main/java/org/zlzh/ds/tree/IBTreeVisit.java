@@ -4,7 +4,7 @@
 
 package org.zlzh.ds.tree;
 
-import org.zlzh.IObjectVisit;
+import org.zlzh.util.IObjectVisit;
 
 /**
  * <p>Title:二叉树节点访问接口</p>
@@ -13,7 +13,6 @@ import org.zlzh.IObjectVisit;
  * @time:    2011-8-8
  * @version:  v1.0
  * @see:BinaryTree<E>
- * @since:    SR5.0.1
  */
 public interface IBTreeVisit<E> extends IObjectVisit<BTNode<E>>{
 

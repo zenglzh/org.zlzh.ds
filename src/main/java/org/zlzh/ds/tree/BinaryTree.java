@@ -1,7 +1,5 @@
 /*
  * @(#)BinaryTree.java	1.0  2011-8-7
- *
- * Copyright 2006 Sun Microsystems, Inc. All rights reserved.
  */
 
 package org.zlzh.ds.tree;
