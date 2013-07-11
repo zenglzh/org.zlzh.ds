@@ -1,8 +1,3 @@
-/*
-*   This file reference Brillig Toolkit.
-* Copyright  2010 Join-Cheer Corporation Copyright (c) All rights reserved.
-* BEIJING JOIN-CHEER SOFTWARE CO.,LTD
-*/
 package org.zlzh.util;
 
 
@@ -11,7 +6,6 @@ package org.zlzh.util;
  * @author:  zenglizhi
  * @time:    2013-6-9
  * @version:  v1.0
- * @since:    JQR5.0
  */
 public class Escaper {
 
