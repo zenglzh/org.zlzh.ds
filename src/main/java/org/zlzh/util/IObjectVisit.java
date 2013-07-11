@@ -5,7 +5,7 @@
  * BEIJING JOIN-CHEER SOFTWARE CO.,LTD
  */
 
-package org.zlzh;
+package org.zlzh.util;
 
 /**
  * <p>Title:对象访问接口</p>
