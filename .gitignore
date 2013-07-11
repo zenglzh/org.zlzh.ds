@@ -3,3 +3,4 @@ classes
 test-classes
 *.class
 *~
+*.DS_Store
